@@ -4,3 +4,5 @@ tools
 __py*
 .venv
 tmp*
+**/raw/
+*.gz
